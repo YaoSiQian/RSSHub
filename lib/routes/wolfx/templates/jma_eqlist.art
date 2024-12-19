@@ -1,0 +1,7 @@
+<h3>{{ title }} | 第 {{ reportNum }} 報</h3>
+<p>{{ originTime }} 発生</p>
+<p>震央: {{ hypoCenter }} (北緯: {{ latitude }}度 東経: {{ longitude }}度)</p>
+<p>マグニチュード: {{ magnitude }}</p>
+<p>深さ: {{ depth }}</p>
+<p>最大震度: {{ maxIntensity }}</p>
+<p>更新時間: {{ reportTime }}</p>

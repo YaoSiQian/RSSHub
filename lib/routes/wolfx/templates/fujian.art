@@ -1,0 +1,5 @@
+<h3>福建局地震預警 | 第 {{ reportNum }} 报</h3>
+<p>{{ originTime }} 發生</p>
+<p>震央: {{ hypoCenter }} (北緯: {{ latitude }}度 東經: {{ longitude }}度)</p>
+<p>規模: {{ magnitude }}</p>
+<p>更新時間: {{ reportTime }}</p>

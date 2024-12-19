@@ -1,0 +1,6 @@
+<h3>四川地震预警 | 第 {{ reportNum }} 报</h3>
+<p>{{ originTime }} 发生</p>
+<p>震中: {{ hypoCenter }} (北纬: {{ latitude }}度 东经: {{ longitude }}度)</p>
+<p>震级: {{ magnitude }}</p>
+<p>最大烈度: {{ maxIntensity }}</p>
+<p>更新时间: {{ reportTime }}</p>
